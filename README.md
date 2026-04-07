@@ -19,7 +19,7 @@ Ao longo de **17 semanas**, os participantes terão contato com conceitos fundam
 | Thamara Gabriela Crispim Bezerra | Estatística | Básico |
 | Alex José Duarte Sasaki | BCC | Básico |
 | Lucas Sufredini | BCC | Básico |
-| Oliver Miyar Ugarte | EC | Nenhum |
+| Oliver Miyar Ugarte | EnC | Nenhum |
 | Vinicius Souza Novais | BES | Nenhum |
 | Juliana Andrade Buono | BCC | Nenhum |
 | Nathalia Cristina Cadeu | BCC | Nenhum |
