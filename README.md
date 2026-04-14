@@ -45,3 +45,25 @@ Ao longo de **17 semanas**, os participantes terão contato com conceitos fundam
 - ✅ Ministrar um minicurso de 1h30 para a comunidade acadêmica
 
 ---
+
+## 📅 Cronograma de Estudos (17 semanas)
+
+| Semana | Tema | Atividades Práticas | Objetivo da Semana |
+|--------|------|---------------------|-------------------|
+| **1** | Ambientação e Setup | Criação do repositório; Instalação Python, VSCode, Jupyter; Hello World | Ambiente funcionando e repositório criado |
+| **2** | Python para ML – Parte 1 | Variáveis, tipos, listas, dicionários; Exercícios em duplas | Estruturas básicas de dados em Python |
+| **3** | Python para ML – Parte 2 | Condicionais, loops, funções; Exercícios práticos | Scripts simples e lógica de programação |
+| **4** | Python para ML – Parte 3 | Manipulação de arquivos; List comprehensions; Exercícios integradores | Consolidar fundamentos de Python |
+| **5** | Introdução ao Pandas | Leitura CSV; head(), info(), describe(); Seleção de colunas | Manipular dados tabulares com Pandas |
+| **6** | Manipulação de Dados com Pandas | Groupby, merge, pivot tables; Tratamento de nulos | Operações avançadas de manipulação |
+| **7** | Visualização de Dados | Gráficos com Matplotlib e Seaborn; Interpretação visual | Criar gráficos e extrair insights |
+| **8** | O que é Machine Learning? | Regressão vs classificação; Primeiro modelo com Scikit-learn | Entender o fluxo básico de ML |
+| **9** | Regressão Linear | Múltiplas variáveis; Métricas (MSE, MAE, R²); Dataset preço de casas | Aplicar regressão linear em problema real |
+| **10** | Regressão Logística | Classificação binária; Matriz de confusão; Classificar e-mails | Aplicar um classificador simples |
+| **11** | Árvores de Decisão e Random Forest | Implementação com Scikit-learn; Comparação entre modelos | Entender modelos baseados em árvores |
+| **12** | Pré-processamento | Valores nulos; Escalonamento; Codificação; Pipelines | Preparar dados corretamente |
+| **13** | Validação e Otimização | Cross-validation; GridSearch; Overfitting | Avaliar e otimizar modelos |
+| **14** | Projeto Guiado – Parte 1 | EDA + pré-processamento; Baseline | Iniciar projeto completo |
+| **15** | Projeto Guiado – Parte 2 | Construção e comparação de modelos; Documentação | Consolidar aprendizado no projeto |
+| **16** | Preparação para Apresentação | Estruturação dos slides; Roteiro do minicurso | Organizar material para o workshop |
+| **17** | Ensaio Final e Entrega | Simulação completa; Ajustes finais; Submissão | Repositório, apresentação e minicurso prontos |
