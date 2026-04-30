@@ -24,7 +24,6 @@ Ao longo de **17 semanas**, os participantes terão contato com conceitos fundam
 | Juliana Andrade Buono | BCC | Nenhum |
 | Nathalia Cristina Cadeu | BCC | Nenhum |
 | Isabely Carvalho Lima | BCC | Nenhum |
-| André Luís Miyagaki Filho | BCC | Nenhum |
 | Bruno Kenzo Saito | BCC | Nenhum |
 
 **Legenda dos níveis:**
