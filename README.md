@@ -16,7 +16,6 @@ Ao longo de **17 semanas**, os participantes terão contato com conceitos fundam
 |------|-------|----------------------|
 | Kailayni Rodrigues Janez | BCC | Intermediário |
 | Lucas Castellari Casadei | BCC | Intermediário |
-| Thamara Gabriela Crispim Bezerra | Estatística | Básico |
 | Alex José Duarte Sasaki | BCC | Básico |
 | Lucas Sufredini | BCC | Básico |
 | Oliver Miyar Ugarte | EnC | Nenhum |
