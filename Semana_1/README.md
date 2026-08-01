@@ -11,9 +11,10 @@
 
 ## 📁 Arquivos Disponíveis
 - `Introdução ao Python - Parte 1.pdf` - Slides do conteúdo
+- `Exercícios.ipynb` - Exercício proposto feito por cada aluno
 
 ## ✏️ Atividade para Casa
-- Praticar com pequenos desafios
+- Praticar com pequenos desafios   
 
 ## 📎 Links Úteis
 - [Documentação Python](https://docs.python.org/3/)
