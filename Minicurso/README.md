@@ -93,8 +93,8 @@ Ao final do minicurso, espera-se que os participantes sejam capazes de:
 
 ## 🔗 Links Relacionados
 
-- [Slides das semanas anteriores](../semana1-17/)
-- [Apresentação do Workshop](../apresentacao/)
+- [Slides das semanas anteriores](/panda-MachineLearning-2026/)
+- [Apresentação do Workshop](../Workshop/)
 
 ---
 
