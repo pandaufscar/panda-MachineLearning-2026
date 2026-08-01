@@ -1,4 +1,4 @@
-# Semana 4 – Python para ML – Parte 3
+# Semana 3 – Python para ML – Parte 3
 
 ## 🎯 Objetivos
 - Manipular arquivos com Python
